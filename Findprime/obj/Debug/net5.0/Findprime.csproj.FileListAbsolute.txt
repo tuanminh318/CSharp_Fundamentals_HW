@@ -1,0 +1,16 @@
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.exe
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.deps.json
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.runtimeconfig.json
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.runtimeconfig.dev.json
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.dll
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\ref\Findprime.dll
+E:\Nashtech\1 Bài Tập\Findprime\bin\Debug\net5.0\Findprime.pdb
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.csprojAssemblyReference.cache
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.AssemblyInfoInputs.cache
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.AssemblyInfo.cs
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.csproj.CoreCompileInputs.cache
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.dll
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\ref\Findprime.dll
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.pdb
+E:\Nashtech\1 Bài Tập\Findprime\obj\Debug\net5.0\Findprime.genruntimeconfig.cache
