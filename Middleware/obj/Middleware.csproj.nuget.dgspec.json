@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tuan Minh\\Desktop\\Middleware\\Middleware.csproj": {}
+    "C:\\Users\\Tuan Minh\\Desktop\\CSharp\\CSharp_Fundamentals_HW\\Middleware\\Middleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tuan Minh\\Desktop\\Middleware\\Middleware.csproj": {
+    "C:\\Users\\Tuan Minh\\Desktop\\CSharp\\CSharp_Fundamentals_HW\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tuan Minh\\Desktop\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\Tuan Minh\\Desktop\\CSharp\\CSharp_Fundamentals_HW\\Middleware\\Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "C:\\Users\\Tuan Minh\\Desktop\\Middleware\\Middleware.csproj",
+        "projectPath": "C:\\Users\\Tuan Minh\\Desktop\\CSharp\\CSharp_Fundamentals_HW\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\Tuan Minh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tuan Minh\\Desktop\\Middleware\\obj\\",
+        "outputPath": "C:\\Users\\Tuan Minh\\Desktop\\CSharp\\CSharp_Fundamentals_HW\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -29,7 +29,7 @@ namespace Middleware
             }
             
             await httpContext.Response.WriteAsync($"<p>{httpContext.Request.Scheme} {httpContext.Request.Path} {httpContext.Request.Host} {httpContext.Request.Method}</p>");
-            await httpContext.Response.WriteAsync($" <h2>The time current request took: {sw.ElapsedMilliseconds}</h2>");
+            await httpContext.Response.WriteAsync($" <h2>{sw.ElapsedMilliseconds}</h2>");
             await _next(httpContext);
         }
     }
